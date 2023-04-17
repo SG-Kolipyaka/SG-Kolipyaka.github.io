@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cf30e5d3.css",
-    "main.js": "/static/js/main.64afe567.js",
+    "main.js": "/static/js/main.abe4fbbc.js",
     "static/js/787.0b2d89da.chunk.js": "/static/js/787.0b2d89da.chunk.js",
     "static/media/DSC_0392.jpg": "/static/media/DSC_0392.4094947731bb68261c1d.jpg",
     "static/media/Sumit_Kolipyaka_Resume.pdf": "/static/media/Sumit_Kolipyaka_Resume.bcd9862ddd67377381bb.pdf",
@@ -23,11 +23,11 @@
     "static/media/mongodb-seeklogo.svg": "/static/media/mongodb-seeklogo.1aca075d5cce0819fea7ea0902d94ce4.svg",
     "index.html": "/index.html",
     "main.cf30e5d3.css.map": "/static/css/main.cf30e5d3.css.map",
-    "main.64afe567.js.map": "/static/js/main.64afe567.js.map",
+    "main.abe4fbbc.js.map": "/static/js/main.abe4fbbc.js.map",
     "787.0b2d89da.chunk.js.map": "/static/js/787.0b2d89da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf30e5d3.css",
-    "static/js/main.64afe567.js"
+    "static/js/main.abe4fbbc.js"
   ]
 }
