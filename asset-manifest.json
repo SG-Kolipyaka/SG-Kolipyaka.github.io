@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.2894f623.css",
-    "main.js": "/static/js/main.2bda2c93.js",
+    "main.js": "/static/js/main.931f2af7.js",
     "static/js/787.0b2d89da.chunk.js": "/static/js/787.0b2d89da.chunk.js",
+    "static/media/Sumit_Kolipyaka_Resume.pdf": "/static/media/Sumit_Kolipyaka_Resume.64412ca4414c6d510fc0.pdf",
     "static/media/DSC_0392.jpg": "/static/media/DSC_0392.4094947731bb68261c1d.jpg",
-    "static/media/Sumit_Kolipyaka_Resume.pdf": "/static/media/Sumit_Kolipyaka_Resume.bcd9862ddd67377381bb.pdf",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/typescriptimage.png": "/static/media/typescriptimage.17936c69824e11a996c4.png",
     "static/media/dsaimage.png": "/static/media/dsaimage.24991eee32623f453b1c.png",
@@ -23,11 +23,11 @@
     "static/media/mongodb-seeklogo.svg": "/static/media/mongodb-seeklogo.1aca075d5cce0819fea7ea0902d94ce4.svg",
     "index.html": "/index.html",
     "main.2894f623.css.map": "/static/css/main.2894f623.css.map",
-    "main.2bda2c93.js.map": "/static/js/main.2bda2c93.js.map",
+    "main.931f2af7.js.map": "/static/js/main.931f2af7.js.map",
     "787.0b2d89da.chunk.js.map": "/static/js/787.0b2d89da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2894f623.css",
-    "static/js/main.2bda2c93.js"
+    "static/js/main.931f2af7.js"
   ]
 }
